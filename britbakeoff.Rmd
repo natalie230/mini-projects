@@ -19,6 +19,8 @@ library(dplyr)
 
 More information on the show can be found on: https://en.wikipedia.org/wiki/The_Great_British_Bake_Off
 
+Source: https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-10-25
+
 
 2. Plot 1
 ```{r, echo=FALSE}
