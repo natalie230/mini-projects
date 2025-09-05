@@ -3,6 +3,9 @@
 - At the moment, when the client clicks the Order button in the application, the matching system searches for the most relevant drivers and offers them the order.
 - In this task, we would like to investigate some matching metrics for orders that did not complete successfully, *i.e., the customer didn't end up getting a car.*
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+
 ## ℹ️Data Description
 We have two data sets: `data_orders` and `data_offers`, both being stored in a CSV format.  
 
